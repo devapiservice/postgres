@@ -22,7 +22,7 @@ SET row_security = off;
 -- Name: RSPLANES; Type: DATABASE; Schema: -; Owner: postgres
 --
 
-CREATE DATABASE "RSPLANES" WITH TEMPLATE = template0 ENCODING = 'UTF8' LC_COLLATE = 'Spanish_Chile.1252' LC_CTYPE = 'Spanish_Chile.1252';
+CREATE DATABASE "RSPLANES" WITH TEMPLATE = template0 ENCODING = 'UTF8' LC_COLLATE = 'en_GB.UTF8' LC_CTYPE = 'en_GB.UTF8';
 
 
 ALTER DATABASE "RSPLANES" OWNER TO postgres;
